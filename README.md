@@ -12,6 +12,7 @@ These features are planned for a future release of TungOS.
  - Debloated, No Snap or Canonical Spyware
  - Custom Boot Screen
  - Modified GRUB Titles
+ - Smaller image size
 
 # Feature Suggestions
 If you want a feature suggested, please create an issue and prefix the title with [FEATURE REQUEST]
