@@ -25,5 +25,5 @@ Please, please, **PLEASE** feel free to distribute TungOS and create mirrors. If
 ![](https://cdn.discordapp.com/attachments/1481401121745539173/1526368627442323567/image.png?ex=6a56c50f&is=6a55738f&hm=6c514257c5a4be47f7b4afe1b1151b52f5d6f2079924069029f4c075d435d40e&)
  # Mirrors
  Download links are below as follows.
- WIP- FTP UPLOADS ARE TAKING A CENTURY
- 
+
+Sourceforge: [Download AMD64](https://sourceforge.net/projects/tungos/files/AMD64/TungOS%2026/TungOS26.iso/download)
